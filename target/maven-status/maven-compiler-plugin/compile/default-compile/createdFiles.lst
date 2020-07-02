@@ -1,0 +1,3 @@
+org\springframework\boot\diagnostics\FailureAnalyzers.class
+org\springframework\boot\SpringApplication.class
+test\App.class
